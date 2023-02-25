@@ -14,10 +14,16 @@ Information can be found at [README](README.md).
 ## Online Female
 | Author | Title / Description | Tags | Image |
 | -------|---------------------|------|-------|
-| GayCookie | [Blue Swimsuit](Online%20Female/GayCookie%20-%20Blue%20Swimsuit.txt) | - | - |
-| GayCookie | [High Roller Dress](Online%20Female/GayCookie%20-%20High%20Roller%20Dress.txt) | - | - |
+| [GayCookie] | [Blue Swimsuit](Online%20Female/GayCookie%20-%20Blue%20Swimsuit.txt) | - | - |
+| [GayCookie] | [High Roller Dress](Online%20Female/GayCookie%20-%20High%20Roller%20Dress.txt) | - | - |
 | Unknown | [Pink Sexy Cop](Online%20Female/[R]%20Unknown%20-%20Pink%20Sexy%20Cop.txt) | R | - |
 
 ## Online Male
 | Author | Title / Description | Tags | Image |
 | -------|---------------------|------|-------|
+
+<!--
+  Below you can add an url to the author (optional).
+-->
+
+[GayCookie]: https://github.com/gaycookie
